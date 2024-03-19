@@ -12,7 +12,7 @@ Curecoom is a conceptual UI/UX design project that illustrates a platform aimed 
 
 ## Figma Design Preview
 
-To view the complete design, visit the Curecoom App Design on Figma.
+To view the complete design, visit the [Curecoom App Design on Figma](https://www.figma.com/file/ioUOVxRxNRw7Csf1si1izo/CureCom?type=design&node-id=0-1&mode=design).
 
 ## Design Process
 
@@ -25,5 +25,3 @@ The design process involved meticulous research into user needs, iterative wiref
 ## Acknowledgements
 
 Special thanks to all who have contributed to the ideation and feedback for this project.
-
----
