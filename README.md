@@ -1,4 +1,4 @@
-# Curecoom App Design
+# Curecom App Design
 
 ## Overview
 
